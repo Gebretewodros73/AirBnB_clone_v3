@@ -124,7 +124,7 @@ No known bugs at this time.
 ## Author
 Tewodros Gebre- [Github](https://github.com/gebretwodros73)
 
-Zerihun Mohammed - [Github](https://github.com/)
+Zerihun Mohammed - [Github](https://github.com/Zerlegend)
 
 ## License
 Public Domain. No copy write protection. 
